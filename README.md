@@ -2,6 +2,8 @@
 
 Provenance Pingback Tool
 
+During recent years an increasing number of data providers adopted a set of best practices for publishing and connecting structured data on the Web, leading to the creation of a globally distributed dataspace – the Web of Data. While this dataspace holds an enormous potential, using data from the Web poses questions of information quality and trustworthiness. These questions can be addressed by methods that use provenance information about the data. We present approaches how such provenance information can be made available in the Web of Data.
+
 Komadu Pingback Model makes an attempt to build a PROV pingback model for Komadu Provenance system to connect existing provenance system with interconnected web of provenance and provide a technical model to involve downstream parties in the publication process of provenance and record forward provenance after the resource left originators’ purview. 
 
 Following is a quick installation guide for Komadu Pingback Model. Basic Use Case Toturial can be found in 
