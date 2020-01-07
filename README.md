@@ -1,3 +1,6 @@
+### Disclaimer 
+<b>This repository is no longer being actively managed by the Data To Insight Center at Indiana University Bloomington https://pti.iu.edu/centers/d2i/.  Neither the center nor its principles assume responsibility for vulnerabilities that the code may have acquired over time.</b>
+
 # Komadu Pingback Model
 
 Provenance Pingback Tool
